@@ -1,7 +1,11 @@
-0.0.0.0 chrome.cloudflare-dns.com
-0.0.0.0 cloudflare-dns.com
-0.0.0.0 dns64.cloudflare-dns.com
-0.0.0.0 family.cloudflare-dns.com
-0.0.0.0 mozilla.cloudflare-dns.com
-0.0.0.0 security.cloudflare-dns.com
-0.0.0.0 dns.cloudflare-dns.com
+chrome.cloudflare-dns.com
+cloudflare-dns.com
+dns64.cloudflare-dns.com
+family.cloudflare-dns.com
+mozilla.cloudflare-dns.com
+security.cloudflare-dns.com
+dns.cloudflare-dns.com
+dns.cloudflare.com
+api.cloudflareclient.com
+connectivity.cloudflareclient.com
+one.one.one.one
